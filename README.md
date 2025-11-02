@@ -2,6 +2,7 @@
 
 **Happenly** is a web-based platform designed to simplify and digitalize **university event management**.  
 It allows students, faculty, and organizers to **create, manage, and participate** in university events efficiently — all in one place!
+Also, the AI feature enables us to search for the programs and know more about them!
 
 🌐 **Live Demo:** (https://happenly-frontend.onrender.com/)
 
